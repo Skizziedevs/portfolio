@@ -6,19 +6,20 @@ export default {
   ],
   theme: {
     screens: {
-      sm: '600px',
-      md: '768px',
-      lg: '976px',
-      xl: '1440px',
+      sm: '768px',
+      md: '1440px',
+      
     },
     extend: {
       colors: {
-        DarkGrey: 'hsl(234, 29%, 20%)',
-        CharcoalGrey: 'hsl(235, 18%, 26%)',
-        Grey: 'hsl(231, 7%, 60%)',
-        White: 'hsl(0, 0%, 100%)',
-        gr: '#ff693b',
-        gl: '#ff537b'
+        dgray: 'hsl(234, 25%, 52%)',
+        dblue: 'hsl(233, 54%, 16%)',
+        dpink: 'hsl(341, 92%, 62%)',
+        lpink: 'hsl(341, 100%, 83%)',
+        orange: 'hsl(13, 100%, 64%)',
+        gpink: 'hsl(322, 87%, 55%)',
+        lgray: 'hsl(232, 10%, 56%)'
+        
       
      },
     },
