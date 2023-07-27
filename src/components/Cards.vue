@@ -133,9 +133,9 @@ line-height: 28px; /* 155.556% */
   color: var(--ffffff, #FFF);
 font-feature-settings: 'clig' off, 'liga' off;
 
-/* Heading M */
+
 font-family: Plus Jakarta Sans;
-font-size: 32px;
+font-size: 42px;
 font-style: normal;
 font-weight: 800;
 line-height: 40px; /* 125% */

@@ -75,7 +75,7 @@ main #img-main {
   }
 }
 
-@media screen and (min-width: 1240px){
+@media screen and (min-width: 1440px){
    main {
     padding: 11.125rem 680px 14.125rem 4.3125rem;
   }
