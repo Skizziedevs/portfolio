@@ -52,7 +52,9 @@ main #img-main {
   background-image: url(../../img/image-hero-mobile@2x.png);
   background-size: contain;
   background-repeat: no-repeat;
-  width: 100%;
+  
+  margin-left: auto;
+  margin-right: auto;
   height: 0;
   padding-top: 92.05%;
 }
@@ -60,7 +62,7 @@ main #img-main {
 @media screen and (min-width: 768px){
     main {
     overflow: hidden;
-    padding: 6.1875rem 350px 11.625rem 2.5rem;
+    padding: 6.1875rem 350px 11.625rem 1.3rem;
     position: relative;
   }
   
