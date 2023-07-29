@@ -9,7 +9,7 @@
 <main>
     <div class="w-[343px] pt-[38px] mx-auto"><h1 class="text-dblue text-[40px] font-[700] md:w-[487px]">Maximize skill,
 minimize budget</h1>
-<p class="pb-[24px] text-lgray pt-[26px] paragraph">Our modern courses across a range of in-demand skills will give you the knowledge you need to live the life you want.</p>
+<p class="pb-[24px] default sm:w-[398px] text-lgray pt-[26px] paragraph">Our modern courses across a range of in-demand skills will give you the knowledge you need to live the life you want.</p>
  <button class="text-white  gradient px-[37px] rounded-[31px] py-[15px] text-[16px] font-[700] leading-[26px] hover:bg-lpink">Get Started</button>
  </div>
     <!-- Hero image -->
