@@ -4,7 +4,7 @@
 
 <template>
  <div class="w-[343px] flex justify-between mx-auto mt-[16px] sm:w-[689px] md:w-[970px] ">
- <img src="../../img/logo-dark.svg" class="w-[89px] mt-2 h-[35px] md:h-[45px] md:w-[114px]" alt="">
+ <img src="../../img/logo-dark.svg" class="w-[89px] mt-2 h-[31px] md:h-[45px] md:w-[114px]" alt="">
 
  <button class="button bg-dblue px-[24px] py-[11px] rounded-[28px]" >Get Started</button>
  </div>
