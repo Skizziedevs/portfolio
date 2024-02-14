@@ -6,20 +6,12 @@ export default {
   ],
   theme: {
     screens: {
-      sm: '768px',
-      md: '1140px',
-      
+      sm: '480px',
+      md: '1024px',
+      lg: '1900px'
     },
     extend: {
       colors: {
-        dgray: 'hsl(234, 25%, 52%)',
-        dblue: 'hsl(233, 54%, 16%)',
-        dpink: 'hsl(341, 92%, 62%)',
-        lpink: 'hsl(341, 100%, 83%)',
-        orange: 'hsl(13, 100%, 64%)',
-        gpink: 'hsl(322, 87%, 55%)',
-        lgray: 'hsl(232, 10%, 56%)'
-        
       
      },
     },

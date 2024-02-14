@@ -1,0 +1,52 @@
+<script setup></script>
+
+<template>
+  <a href="/News">
+    <div
+      class="w-[351px] mx-auto my-[101px] md:flex md:w-[870px] md:my-[150px] lg:w-[1000px]"
+    >
+      <img
+        src="../../img/buildblog.png"
+        class="h-[250px] md:w-[332px] md:h-[319px] object-fill"
+        alt=""
+      />
+      <div
+        class="w-[351px] pl-[20px] bg-black h-[142px] md:pl-[70px] md:h-[319px] md:w-[538px]"
+      >
+        <p
+          class="gradient font-[Inter] text-[13px] font-bold leading-[13px] tracking-[4px] uppercase md:leading-[14px] pt-[22px] pb-[16px] md:pt-[71px] md:pb-[14px]"
+        >
+          April 11, 2022
+        </p>
+        <h2
+          class="text-[white] font-[Inter] text-[25px] font-bold leading-[31.2px] tracking-[0.5px] md:text-[40px] lmd:leading-[48px] md:tracking-[1px] pb-[19.5px] md:w-[383px] md:pb-[28px]"
+        >
+          Goodbye New York City
+        </h2>
+        <div class="flex">
+          <p
+            class="text-white font-[Inter] text-[13px] font-[400] leading-[14px] md:text-[17px] md:leading-[18px] pr-2"
+          >
+            View Blog Post
+          </p>
+          <img src="../../img/ic.png" alt="" />
+        </div>
+      </div>
+    </div>
+  </a>
+</template>
+
+<style scoped>
+.gradient {
+  background: linear-gradient(
+    108deg,
+    #b16cea 8%,
+    #ff5e69 40%,
+    #ff8a56 77%,
+    #ffa84b 91%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+</style>

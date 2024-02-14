@@ -1,17 +1,14 @@
 <script setup>
-import Navbar from "./components/Navbar.vue"
-import Hero from "./components/Hero.vue"
-import Cards from "./components/Cards.vue"
-import Footer from "./components/Footer.vue"
+import Navbar from './components/Navbar.vue'
+import Footer from './components/Footer.vue'
 </script>
 
-<template>
-<div>
- <Navbar />
- <Hero />
- <Cards />
- <Footer />
- </div>
+<template >
+    <div class="overflow-x-hidden" >
+<Navbar />
+<router-view/>
+<Footer />
+</div>
 </template>
 
 <style scoped>
