@@ -3,15 +3,15 @@
 <template>
   <div class="">
     <div
-      class="w-[351px] mx-auto md:flex md:w-[870px] md:h-[600px] md:justify-between lg:mb-[234px]"
+      class="w-[351px] ipad:w-[650px] xlg:w-[1400px] xlg:mt-[100px]  ld:w-[1000px] mx-auto md:flex md:w-[870px] md:h-[600px] md:justify-between lg:mb-[234px]"
     >
       <div class="pt-[60px] my-auto md:flex-col-reverse">
         <h1
-          class="font-[Inter] text-[44px] font-bold leading-[48px] tracking-[0.5px] md:text-[56px] md:leading-[61px] pb-[26px]"
+          class="font-[Inter] ipad:pl-[40px] md:w-[389px] text-[44px] ld:text-[64px] ld:w-[450px] ld:pb-[30px] font-bold leading-[48px] tracking-[0.5px] md:text-[56px] md:leading-[61px] pb-[26px]"
         >
           Goodbye New York City
         </h1>
-        <p class="font-[Inter] text-[15px] font-[400] leading-[14px]">
+        <p class="font-[Inter] ipad:pl-[40px]  text-[15px] font-[400] leading-[14px]">
           April 11, 2022 . 5 minuites
         </p>
         <img
@@ -20,10 +20,10 @@
           alt=""
         />
       </div>
-      <img src="../../img/build.png" class="pt-[60px] md:hidden" alt="" />
+      <img src="../../img/build.png" class="pt-[60px] ipad:ml-[140px] md:hidden" alt="" />
       <img
         src="../../img/buildmd.png"
-        class="pt-[60px] pl-[130px] w-[600px] md:block hidden lg:hidden"
+        class="pt-[60px] pl-[130px] md:pl-[90px] w-[600px] md:block hidden lg:hidden"
         alt=""
       />
       <img
@@ -32,14 +32,14 @@
         alt=""
       />
     </div>
-    <div class="w-[351px] mx-auto md:w-[800px]">
+    <div class="w-[351px] ipad:w-[670px] xlg:w-[1400px] ld:w-[1000px] mx-auto md:w-[800px]">
       <h2
-        class="font-[Inter] text-[30px] font-bold leading-[42px] tracking-[-1px] md:text-[34px] md:leading-[45px] md:tracking-[1px] pt-[98px] pb-[24px]"
+        class="font-[Inter] text-[30px] xlg:text-[40px] font-bold leading-[42px] tracking-[-1px] md:text-[34px] md:leading-[45px] md:tracking-[1px] pt-[98px] pb-[24px]"
       >
         To the best city on earth
       </h2>
       <p
-        class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+        class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] xlg:text-[24px] md:leading-[30px]"
       >
         As my time in New York City draws to a close in the coming months, I
         find myself reflecting on my time in the concrete jungle. It certainly
@@ -47,14 +47,14 @@
       </p>
 
       <p
-        class="font-[Inter] text-[20px] italic font-[400] leading-[27px] border-l-[2px] border-l-gray-400 md:text-[24px] md:leading-[34px] md:font-[500] pl-[25px] my-[40px]"
+        class="font-[Inter] xlg:text-[24px] text-[20px] italic font-[400] leading-[27px] border-l-[2px] border-l-gray-400 md:text-[24px] md:leading-[34px] md:font-[500] pl-[25px] my-[40px]"
       >
         "New York is made up of millions of different people, and they all come
         here looking for something."
       </p>
       <div class="space-y-[34px]">
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           I arrived at the Big Apple in late October 2019 to move in with my
           then girlfriend, now wife. I still remember those first few months
@@ -64,7 +64,7 @@
           at home, but not at peace.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           I landed a sweet gig with Cognizant Softvision in December 2019 and
           remembered all the kind greetings I got in those offices at Hudson
@@ -72,24 +72,24 @@
           begun.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           Then of course, my luck ran out.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           To start off the new decade I visited family back home in Colorado. We
           went to the slopes and I fell off a ski lift and shattered my knee.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           So now I head back to the city, limping on crutches, in one of the
           fastest paced places on earth. Just my luck.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           It started out as a quiet panic amongst my wife and her family. Being
           from China, her parents had family back home and were monitoring the
@@ -97,12 +97,12 @@
           all, it was way over there. It could never happen here....right?
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           But it did, and it swept in fast.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           Slowly the city started shutting down, then all of a sudden all the
           world began collapsing. It was sad to say goodbye to my team that I
@@ -119,7 +119,7 @@
 
       <div class="space-y-[34px]">
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] font-[Inter] xlg:text-[24px] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           There will be people who said that the city was dead quiet during the
           height of Covid. Those people are wrong. What they leave out are all
@@ -127,26 +127,26 @@
           to all of us that another person has been lost.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           At 7pm each day the city would erupt into cheers for our front line
           workers. Then the Blue Angels flew over the East River is a display of
           solidarity for the city.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           For a period of two weeks, it really did feel like the world united.
           Two scary but truly peaceful weeks. I'll always cherish that time.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           But even though we all were apart, the city still kept us all
           together.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] xlg:text-[24px] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           It was a hard two years, but slowly the city came back to life. The
           cars started honking again. People yelling at each other on the
@@ -154,14 +154,14 @@
         </p>
       </div>
       <p
-        class="font-[Inter] text-[20px] italic font-[400] leading-[27px] border-l-[2px] border-l-gray-400 md:text-[24px] md:leading-[34px] md:font-[500] pl-[25px] my-[40px]"
+        class="font-[Inter] xlg:text-[24px] text-[20px] italic font-[400] leading-[27px] border-l-[2px] border-l-gray-400 md:text-[24px] md:leading-[34px] md:font-[500] pl-[25px] my-[40px]"
       >
         "The world had changed, and so did I."
       </p>
 
       <div class="space-y-[34px]">
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] font-[Inter] xlg:text-[24px] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           I just no longer see the city in the same light. All I know of the
           city were the harsh lockdowns and the darting eyes people would make
@@ -169,14 +169,14 @@
           never be.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] font-[Inter] xlg:text-[24px] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           This is why I am bidding you fare well, at least for now. I need some
           time to capture some of the spark that was lost these past two years.
           But I know you'll always be here. Shining brightly like you do.
         </p>
         <p
-          class="text-[#666] font-[Inter] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] pb-[80px] font-[Inter] xlg:text-[24px] font-[400] text-[14px] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           I'll certainly miss the bagels
         </p>

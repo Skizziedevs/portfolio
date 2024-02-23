@@ -1,12 +1,12 @@
 <script setup></script>
 
 <template>
-  <div class="w-[100%] px-[10px] bg-black">
+  <div class="w-[100%] px-[10px]  bg-black">
     <div
-      class="mx-auto w-[351px] md:w-[870px] pt-[60px] md:pt-[150px] pb-[80px]"
+      class="mx-auto w-[351px] ipad:w-[650px] ld:w-[1000px] xlg:w-[1400px]  md:w-[870px] pt-[60px] md:pt-[150px] ipad:pl-[70px] pb-[80px]"
     >
       <h1
-        class="w-[239px] md:w-[550px] text-[white] font-[Inter] text-[38px] leading-[43px] tracking-[0.5px] md:text-[57px] font-bold md:leading-[59.4px] md:tracking-[2.5px]"
+        class="w-[239px] ipad:w-[460px] ld:w-[700px] ipad:text-[43px] md:w-[550px] text-[white] font-[Inter] text-[38px] leading-[43px] tracking-[0.5px] md:text-[57px] font-bold md:leading-[59.4px] md:tracking-[2.5px]"
       >
         Want to make awesome products?
       </h1>
@@ -16,36 +16,36 @@
         Let's get in touch
       </h1>
     </div>
-    <div class="mx-auto w-[351px] md:w-[870px] md:flex">
+    <div class="mx-auto w-[351px] ld:w-[1000px] md:w-[870px] xlg:w-[1400px] ipad:pl-[70px] ipad:w-[650px] md:flex xlg:justify-between">
       <div>
-        <img src="../../img/footerlogo.png" class="pb-[12px]" alt="" />
+        <img src="../../img/footerlogo.png" class="pb-[12px] ipad:w-[500px]" alt="" />
         <p
           class="text-[#5C5C5C] font-[Inter] text-[15px] font-bold leading-[36px]"
         >
           justintsn10@gmail.com
         </p>
       </div>
-      <div class="h-[65px] mt-[84px] flex md:hidden">
-        <ul class="flex-col space-y-[28px]">
+      <div class="h-[65px] mt-[84px] flex md:hidden xlg:pr-[50px]">
+        <ul class="flex-col space-y-[28px] ipad:space-y-[60px]">
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] font-[Inter] ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
           >
             Blog
           </li>
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] ipad:text-[23px] font-[400] leading-[16px]"
           >
             Linkedin
           </li>
         </ul>
-        <ul class="flex-col pl-[156px] space-y-[28px] md:flex-row">
+        <ul class="flex-col pl-[156px]  ipad:pl-[300px] space-y-[28px] ipad:space-y-[60px] md:flex-row">
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] font-[Inter] ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
           >
             Projects
           </li>
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] ipad:text-[23px] font-[Inter] text-[16px] font-[400] leading-[16px]"
           >
             Resume
           </li>
@@ -78,9 +78,9 @@
         </ul>
       </div>
     </div>
-    <div class="w-[351px] md:w-[870px] mx-auto">
+    <div class="w-[351px] md:relative md:left-[55px] ld:left-[0px] xlg:right-[200px] ipad:w-[550px] md:w-[870px] mx-auto">
       <p
-        class="text-[#8A95AD] text-start font-[Inter] text-[13px] font-[400] leading-[21px] mt-[169px] pb-[30px] w-[870px] mx-auto"
+        class="text-[#8A95AD]  font-[Inter] text-[13px] font-[400] leading-[21px] mt-[169px] pb-[30px] w-[870px] mx-auto"
       >
         Justin Hinh | Product Manager
       </p>

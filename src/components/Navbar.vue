@@ -7,19 +7,19 @@ let closeit = ref(true);
 
 <template>
   <div
-    class="flex justify-between w-[360px] md:w-[870px] pt-[43px] lg:w-[1215px] mx-auto"
+    class="flex justify-between w-[360px] md:w-[870px] ld:w-[1100px] xlg:w-[1600px] pt-[43px] lg:w-[1215px] ipad:w-[600px] mx-auto"
   >
     <a href="/"
-      ><img class="w-[175.50px] h-[37.20px]" src="../../img/logo.png"
+      ><img class="w-[175.50px] h-[37.20px] xlg:w-[205.50px] xlg:h-[50.20px]" src="../../img/logo.png"
     /></a>
     <div></div>
     <ul
-      class="md:flex space-x-[43.3px] md:relative md:left-[96px] lg:left-[190px] hidden"
+      class="md:flex space-x-[43.3px] xlg:text-[23px] xlg:space-x-[70px] md:relative md:left-[96px] lg:left-[190px] hidden"
     >
-      <li><a href="/Projects">Projects</a></li>
-      <li><a href="/Blogs">Blogs</a></li>
-      <li><a href="/">Resume</a></li>
-      <li><a href="#">Contact</a></li>
+    <router-link to="/Projects"><li class="hover:bg-gray-300 rounded-md p-[3px]">Projects</li></router-link>
+    <router-link to="/Blogs"><li class="hover:bg-gray-300 rounded-md p-[3px]">Blogs</li></router-link>
+    <router-link to="/"> <li class="hover:bg-gray-300 rounded-md p-[3px]">Resume</li></router-link>
+    <router-link to="#"><li class="hover:bg-gray-300 rounded-md p-[3px]">Contact</li></router-link>
     </ul>
     <div @click="closeit = !closeit" class="pr-[14px] pt-[10px]">
       <button
@@ -40,13 +40,13 @@ let closeit = ref(true);
       class="absolute rounded-3xl flex-col items-center flex self-end z-10 w-[90%] py-8 mt-16 space-y-6 font-bold bg-white sm:w-auto sm:self-center left-6 right-6 drop-shadow-md"
       :class="{ invisible: closeit }"
     >
-      <a href="/Projects">Projects</a>
+      <a href="/Projects" class="hover:bg-gray-300 rounded-md p-[3px]">Projects</a>
       <div class="w-[60%] mx-[20%] h-[1px] bg-gray-600"></div>
-      <a href="/Blogs">Blogs</a>
+      <a href="/Blogs" class="hover:bg-gray-300 rounded-md p-[3px]">Blogs</a>
       <div class="w-[60%] mx-[20%] h-[1px] bg-gray-600"></div>
-      <a href="/">Resume</a>
+      <a href="/" class="hover:bg-gray-300 rounded-md p-[3px]">Resume</a>
       <div class="w-[60%] mx-[20%] h-[1px] bg-gray-600"></div>
-      <a href="#">Contact</a>
+      <a href="#" class="hover:bg-gray-300 rounded-md p-[3px]">Contact</a>
     </div>
   </div>
 </template>

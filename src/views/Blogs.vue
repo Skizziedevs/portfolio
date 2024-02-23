@@ -19,18 +19,14 @@
           April 11, 2022
         </p>
         <h2
-          class="text-[white] font-[Inter] text-[25px] font-bold leading-[31.2px] tracking-[0.5px] md:text-[40px] lmd:leading-[48px] md:tracking-[1px] pb-[19.5px] md:w-[383px] md:pb-[28px]"
+          class="text-[white] font-[Inter] text-[25px] font-bold leading-[31.2px] tracking-[0.5px] md:text-[40px] lmd:leading-[48px] md:tracking-[1px] pb-[12.5px] md:w-[383px] md:pb-[28px]"
         >
           Goodbye New York City
         </h2>
-        <div class="flex">
-          <p
-            class="text-white font-[Inter] text-[13px] font-[400] leading-[14px] md:text-[17px] md:leading-[18px] pr-2"
-          >
-            View Blog Post
-          </p>
-          <img src="../../img/ic.png" alt="" />
-        </div>
+        <div class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]">
+            <p class="link text-white ld:text-[18.5px] ipad:text-[18px] pr-[10px]">View Blog Post</p>
+            <img src="../../img/ic.png" class="w-[22px] h-[22px] mt-[2.1px] ipad:mt-[3px] ld:mt-[3px]" alt="" />
+          </div>
       </div>
     </div>
   </a>
