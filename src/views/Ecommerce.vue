@@ -2,18 +2,26 @@
 
 <template>
   <div class="">
-    <div class="w-[351px] ipad:w-[650px] ld:w-[1000px] mx-auto pt-[37px] md:w-[800px]">
+    <div
+      class="w-[351px] ipad:w-[650px] ld:w-[1000px] mx-auto pt-[37px] md:w-[800px]"
+    >
       <h1
         class="font-[Inter] text-[26px] font-bold leading-[27px] md:text-[35px] md:leading-[36px] md:pl-[176px] pt-[52px]"
       >
         Ecommerce Seller
       </h1>
-      <img src="../../img/workers.png" class="mt-[100px] ld:w-[1000px]" alt="" />
+      <img
+        src="../../img/workers.png"
+        class="mt-[100px] ld:w-[1000px]"
+        alt=""
+      />
     </div>
-    <div class="w-[351px] ipad:w-[650px] ld:w-[1000px]  mx-auto mt-[48px] md:w-[800px]">
+    <div
+      class="w-[351px] ipad:w-[650px] ld:w-[1000px] mx-auto mt-[48px] md:w-[800px]"
+    >
       <div class="space-y-[28px]">
         <p
-          class="text-[#666]  font-[Inter] text-[16px] font-[400] leading-[27px] md:text-[20px] md:leading-[30px]"
+          class="text-[#666] font-[Inter] text-[16px] font-[400] leading-[27px] md:text-[20px] md:leading-[30px]"
         >
           On February of 2021, I and many others were laid off as part of a
           reduction of force measure at Cognizant Softvision. It was a gut punch
@@ -50,7 +58,9 @@
         <h2 class="font-[Inter] text-[25px] font-bold leading-[34px] pb-[20px]">
           KEY TAKEAWAYS
         </h2>
-        <div class="w-[316px] ipad:w-[650px] ld:w-[1000px]  md:w-[743px] md:pl-[40px] pl-[30px] space-y-3">
+        <div
+          class="w-[316px] ipad:w-[650px] ld:w-[1000px] md:w-[743px] md:pl-[40px] pl-[30px] space-y-3"
+        >
           <p
             class="text-[#666] font-[Inter] text-[16px] font-[400] leading-[27px] md:text-[20px] md:leading-[30px]"
           >

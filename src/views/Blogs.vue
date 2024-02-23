@@ -23,10 +23,20 @@
         >
           Goodbye New York City
         </h2>
-        <div class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]">
-            <p class="link text-white ld:text-[18.5px] ipad:text-[18px] pr-[10px]">View Blog Post</p>
-            <img src="../../img/ic.png" class="w-[22px] h-[22px] mt-[2.1px] ipad:mt-[3px] ld:mt-[3px]" alt="" />
-          </div>
+        <div
+          class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
+        >
+          <p
+            class="link text-white ld:text-[18.5px] ipad:text-[18px] pr-[10px]"
+          >
+            View Blog Post
+          </p>
+          <img
+            src="../../img/ic.png"
+            class="w-[22px] h-[22px] mt-[2.1px] ipad:mt-[3px] ld:mt-[3px]"
+            alt=""
+          />
+        </div>
       </div>
     </div>
   </a>

@@ -2,11 +2,11 @@
 
 <template>
   <div
-    class="mx-auto w-[351px] ipad:w-[700px] ld:w-[1000px] xlg:w-[1400px] ipad:flex  mt-[40px] mb-[60px] md:mb-[36px] ipad:pt-[42px] md:pt-[112px] md:flex md:w-[870px] lg:w-[1215px] justify-between"
+    class="mx-auto w-[351px] ipad:w-[700px] ld:w-[1000px] xlg:w-[1400px] ipad:flex mt-[40px] mb-[60px] md:mb-[36px] ipad:pt-[42px] md:pt-[112px] md:flex md:w-[870px] lg:w-[1215px] justify-between"
   >
     <div class="md:w-[387px] ipad:w-[400px] lg:w-[527px] lg:pt-[92px]">
       <span
-        class="gradient ipad:text-[48px] md:ml-[0px] ipad:ml-[60px]  text-[41px] font-bold leading-[44px] tracking-[-2px] md:text-[72px] md:leading-[82.5px]"
+        class="gradient ipad:text-[48px] md:ml-[0px] ipad:ml-[60px] text-[41px] font-bold leading-[44px] tracking-[-2px] md:text-[72px] md:leading-[82.5px]"
         >i build products</span
       >
       <h1
@@ -20,7 +20,9 @@
       >
         Hello! I’m Justin, a Product Manager based in Denver, Colorado.
       </p>
-      <p class="font-bold ipad:ml-[60px] md:ml-[0px] text-[17px] leading-[17px] pt-[26px] md:text-[23px]">
+      <p
+        class="font-bold ipad:ml-[60px] md:ml-[0px] text-[17px] leading-[17px] pt-[26px] md:text-[23px]"
+      >
         Download cv
       </p>
     </div>

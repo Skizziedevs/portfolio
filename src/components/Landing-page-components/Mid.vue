@@ -5,7 +5,9 @@
     <div
       class="w-[315px] pb-[70px] pl-[6px] md:w-[890px] xlg:w-[1400px] ld:w-[1000px] ipad:flex ipad:w-[700px] ipad:relative ipad:top-[40px] lg:w-[1215px] md:flex justify-around ipad:mx-auto"
     >
-      <div class="w-[351px] ipad:w-[700px] sm:ml-[100px] ipad:ml-[0px] pb-[80px]">
+      <div
+        class="w-[351px] ipad:w-[700px] sm:ml-[100px] ipad:ml-[0px] pb-[80px]"
+      >
         <h2 class="gradient text-[25px] font-bold pb-[17px] tracking-[3px]">
           BLOGS
         </h2>

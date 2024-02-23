@@ -1,9 +1,11 @@
 <script setup></script>
 
 <template>
-  <div class="w-[315px] ld:w-[1000px] mt-[70px] xlg:w-[1500px] md:w-[870px] ipad:w-[600px] lg:w-[1250px] mx-auto">
+  <div
+    class="w-[315px] ld:w-[1000px] mt-[70px] xlg:w-[1500px] md:w-[870px] ipad:w-[600px] lg:w-[1250px] mx-auto"
+  >
     <div
-      class="md:flex justify-around md:pt-[165px] md:pb-[86px] xlg:w-[1450px]  lg:w-[1240px]"
+      class="md:flex justify-around md:pt-[165px] md:pb-[86px] xlg:w-[1450px] lg:w-[1240px]"
     >
       <h2
         class="font-[Inter] text-[22px] ipad:text-[28px] font-bold tracking-[4px] leading-[22px] gradient pt-[50px] md:relative md:bottom-9"
@@ -20,19 +22,25 @@
       </p>
     </div>
 
-    <div class="pt-[51px] ipad:pl-[50px]  md:hidden">
-      <img class="ipad:w-[480px] ipad:ml-[9px] ipad:h-[410px] " src="../../../img/jimmy.png" />
+    <div class="pt-[51px] ipad:pl-[50px] md:hidden">
+      <img
+        class="ipad:w-[480px] ipad:ml-[9px] ipad:h-[410px]"
+        src="../../../img/jimmy.png"
+      />
       <div class="flex">
         <img
           class="w-[167.50px] ipad:w-[250px] ipad:h-[240px] ld:h-[140px] p-[10px] h-[150px]"
           src="../../../img/jim3.png"
         />
         <img
-          class="w-[167.50px] ipad:w-[250px] ipad:h-[240px]  p-[10px] h-[150px]"
+          class="w-[167.50px] ipad:w-[250px] ipad:h-[240px] p-[10px] h-[150px]"
           src="../../../img/jim4.png"
         />
       </div>
-      <img class="ipad:w-[480px] ipad:ml-[9px] ipad:h-[415px] " src="../../../img/teach.png" />
+      <img
+        class="ipad:w-[480px] ipad:ml-[9px] ipad:h-[415px]"
+        src="../../../img/teach.png"
+      />
     </div>
 
     <div class="hidden md:flex xlg:pl-[45px]">

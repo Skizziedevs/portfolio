@@ -1,7 +1,9 @@
 <script setup></script>
 
 <template>
-  <div class="w-[351px] ld:w-[1000px] xlg:w-[1500px] md:w-[870px] lg:w-[1098px] pb-[107px] mx-auto">
+  <div
+    class="w-[351px] ld:w-[1000px] xlg:w-[1500px] md:w-[870px] lg:w-[1098px] pb-[107px] mx-auto"
+  >
     <div>
       <h1
         class="md:w-[575px] ipad:w-[400px] w-[316px] mx-auto text-center pb-[30px] font-inter font-bold text-[34px] md:text-[52px] md:tracking-[1px] md:leading-[59.4px] leading-[43.2px] tracking-[0.5px] xlg:pb-[60px] pt-[107px]"
@@ -11,8 +13,12 @@
     </div>
 
     <div class="md:flex justify-between">
-      <div class="pb-[74px] pt-[67px] md:w-[230px] ipad:w-[400px] xlg:w-[330px]">
-        <h2 class=" font-bold text-[20px] ipad:text-[25px] text-black md:hidden lg:block pb-[13px]">
+      <div
+        class="pb-[74px] pt-[67px] md:w-[230px] ipad:w-[400px] xlg:w-[330px]"
+      >
+        <h2
+          class="font-bold text-[20px] ipad:text-[25px] text-black md:hidden lg:block pb-[13px]"
+        >
           What I do
         </h2>
         <p class="xlg:text-[25px] pb-[31px] md:pt-[16px]">
@@ -35,8 +41,12 @@
         </ul>
       </div>
 
-      <div class="pb-[74px] md:pt-[67px] md:w-[230px] xlg:w-[330px] lg:w-[313px]">
-        <h2 class="font-bold text-[20px] text-black md:hidden lg:block pb-[13px]">
+      <div
+        class="pb-[74px] md:pt-[67px] md:w-[230px] xlg:w-[330px] lg:w-[313px]"
+      >
+        <h2
+          class="font-bold text-[20px] text-black md:hidden lg:block pb-[13px]"
+        >
           What I do
         </h2>
         <p class="paragraph pb-[31px] xlg:text-[25px] md:pt-[16px]">
@@ -60,12 +70,12 @@
       </div>
 
       <div class="md:w-[230px] xlg:w-[330px] md:pt-[67px]">
-        <h2 class="font-bold text-[20px] text-black md:hidden lg:block pb-[13px]">
+        <h2
+          class="font-bold text-[20px] text-black md:hidden lg:block pb-[13px]"
+        >
           What You can expect
         </h2>
-        <p
-        class="paragraph pb-[31px] xlg:text-[25px] md:pt-[16px]"
-        >
+        <p class="paragraph pb-[31px] xlg:text-[25px] md:pt-[16px]">
           I create products that are more than shiny. I make them shippable,
           usable, and scale.
         </p>

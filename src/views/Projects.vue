@@ -24,9 +24,19 @@
           >
             Construction Equipment Analysis and Reporting
           </h2>
-          <div class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px]  ipad:w-[156px] ld:w-[160px]">
-            <p class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]">View Blog Post</p>
-            <img src="../../img/ic.png" class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]" alt="" />
+          <div
+            class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
+          >
+            <p
+              class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]"
+            >
+              View Blog Post
+            </p>
+            <img
+              src="../../img/ic.png"
+              class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
+              alt=""
+            />
           </div>
         </div>
       </div>
@@ -47,13 +57,23 @@
             Ecommerce Seller
           </p>
           <h2
-            class="text-white font-[Inter]  text-[19px] font-bold leading-[25px] md:text-[35px] md:leading-[36px] w-[234px] pb-[3px] md:pb-[14px] md:w-[421px]"
+            class="text-white font-[Inter] text-[19px] font-bold leading-[25px] md:text-[35px] md:leading-[36px] w-[234px] pb-[3px] md:pb-[14px] md:w-[421px]"
           >
             Supporting Local Communities
           </h2>
-          <div class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px]  ipad:w-[156px] ld:w-[160px]">
-            <p class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]">View Blog Post</p>
-            <img src="../../img/ic.png" class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]" alt="" />
+          <div
+            class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
+          >
+            <p
+              class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]"
+            >
+              View Blog Post
+            </p>
+            <img
+              src="../../img/ic.png"
+              class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
+              alt=""
+            />
           </div>
         </div>
       </div>
@@ -78,10 +98,20 @@
         >
           Affordable Housing Mortgage
         </h2>
-        <div class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px]  ipad:w-[156px] ld:w-[160px]">
-            <p class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]">View Blog Post</p>
-            <img src="../../img/ic.png" class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]" alt="" />
-          </div>
+        <div
+          class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
+        >
+          <p
+            class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]"
+          >
+            View Blog Post
+          </p>
+          <img
+            src="../../img/ic.png"
+            class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
+            alt=""
+          />
+        </div>
       </div>
     </div>
 
@@ -104,10 +134,20 @@
         >
           Find the best Happy Hours in Washington DC
         </h2>
-        <div class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px]  ipad:w-[156px] ld:w-[160px]">
-            <p class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]">View Blog Post</p>
-            <img src="../../img/ic.png" class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]" alt="" />
-          </div>
+        <div
+          class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
+        >
+          <p
+            class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]"
+          >
+            View Blog Post
+          </p>
+          <img
+            src="../../img/ic.png"
+            class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
+            alt=""
+          />
+        </div>
       </div>
     </div>
   </div>

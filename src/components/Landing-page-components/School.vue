@@ -23,7 +23,7 @@
           </p>
         </div>
         <div class="w-full h-[1px] bg-gray-600"></div>
-        <div class="pt-[50px] pb-[70px]  hover:bg-gray-100">
+        <div class="pt-[50px] pb-[70px] hover:bg-gray-100">
           <h2 class="font-[400] text-[17px] leading-[20.8px]">
             Ingolstadt School of Management
           </h2>
@@ -44,26 +44,26 @@
         💼 Work Experience
       </h1>
       <div class="pt-[51px]">
-        <div class="h-[179px] flex justify-between  hover:bg-gray-100">
+        <div class="h-[179px] flex justify-between hover:bg-gray-100">
           <img
             src="../../../img/icon1.png"
             class="w-[50px] h-[50px] md:w-[38px] md:h-[38px] mt-[48px]"
             alt=""
           />
-          <div class="md:relative md:right-[85px] relative right-[10px] md:top-5">
+          <div
+            class="md:relative md:right-[85px] relative right-[10px] md:top-5"
+          >
             <h2 class="text-black pt-[12px] text-lg font-normal md:text-[22px]">
               Rouse services
             </h2>
             <p
-            class="font-[Inter] font-[500] leading-[20.8px] text-[14px] pt-[12px] md:w-[140px]"
+              class="font-[Inter] font-[500] leading-[20.8px] text-[14px] pt-[12px] md:w-[140px]"
             >
               Product Manager
-
             </p>
             <p
-            class="font-[Inter] font-[500] leading-[20.8px] text-[14px] pt-[10px] pb-[12px] md:w-[140px]"
+              class="font-[Inter] font-[500] leading-[20.8px] text-[14px] pt-[10px] pb-[12px] md:w-[140px]"
             >
-            
               Jun 2021 - Current
             </p>
           </div>
@@ -75,7 +75,7 @@
         </div>
         <div class="w-full mb-[70px] h-[1px] bg-gray-600"></div>
 
-        <div class="h-[179px] flex justify-between  hover:bg-gray-100">
+        <div class="h-[179px] flex justify-between hover:bg-gray-100">
           <img
             src="../../../img/icon2.png"
             class="w-[50px] h-[50px] md:w-[38px] md:h-[38px] mt-[48px]"
@@ -106,7 +106,7 @@
         </div>
         <div class="w-full mb-[70px] h-[1px] bg-gray-600"></div>
 
-        <div class="h-[179px] flex justify-between  hover:bg-gray-100">
+        <div class="h-[179px] flex justify-between hover:bg-gray-100">
           <img
             src="../../../img/icon3.png"
             class="w-[50px] h-[50px] md:w-[38px] md:h-[38px] mt-[48px]"
@@ -117,7 +117,7 @@
               Fannie mae
             </h2>
             <p
-              class="font-[Inter] font-[500] leading-[20.8px] text-[14px]  pt-[12px] md:w-[140px]"
+              class="font-[Inter] font-[500] leading-[20.8px] text-[14px] pt-[12px] md:w-[140px]"
             >
               Product Manager
             </p>
@@ -135,7 +135,9 @@
         </div>
         <div class="w-full mb-[70px] h-[1px] bg-gray-600"></div>
 
-        <div class="h-[179px] flex md:hidden lg:flex justify-between  hover:bg-gray-100">
+        <div
+          class="h-[179px] flex md:hidden lg:flex justify-between hover:bg-gray-100"
+        >
           <img
             src="../../../img/icon1.png"
             class="w-[50px] h-[50px] md:w-[38px] md:h-[38px] mt-[48px]"
@@ -164,7 +166,9 @@
         </div>
         <div class="w-full mb-[70px] h-[1px] bg-gray-600 md:hidden"></div>
 
-        <div class="w-[315px] h-[179px] flex justify-between md:hidden  hover:bg-gray-100">
+        <div
+          class="w-[315px] h-[179px] flex justify-between md:hidden hover:bg-gray-100"
+        >
           <img
             src="../../../img/icon2.png"
             class="w-[50px] h-[50px] mt-[48px]"

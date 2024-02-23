@@ -3,7 +3,7 @@
 <template>
   <div class="">
     <div
-      class="w-[351px] ipad:w-[650px] xlg:w-[1400px] xlg:mt-[100px]  ld:w-[1000px] mx-auto md:flex md:w-[870px] md:h-[600px] md:justify-between lg:mb-[234px]"
+      class="w-[351px] ipad:w-[650px] xlg:w-[1400px] xlg:mt-[100px] ld:w-[1000px] mx-auto md:flex md:w-[870px] md:h-[600px] md:justify-between lg:mb-[234px]"
     >
       <div class="pt-[60px] my-auto md:flex-col-reverse">
         <h1
@@ -11,7 +11,9 @@
         >
           Goodbye New York City
         </h1>
-        <p class="font-[Inter] ipad:pl-[40px]  text-[15px] font-[400] leading-[14px]">
+        <p
+          class="font-[Inter] ipad:pl-[40px] text-[15px] font-[400] leading-[14px]"
+        >
           April 11, 2022 . 5 minuites
         </p>
         <img
@@ -20,7 +22,11 @@
           alt=""
         />
       </div>
-      <img src="../../img/build.png" class="pt-[60px] ipad:ml-[140px] md:hidden" alt="" />
+      <img
+        src="../../img/build.png"
+        class="pt-[60px] ipad:ml-[140px] md:hidden"
+        alt=""
+      />
       <img
         src="../../img/buildmd.png"
         class="pt-[60px] pl-[130px] md:pl-[90px] w-[600px] md:block hidden lg:hidden"
@@ -32,7 +38,9 @@
         alt=""
       />
     </div>
-    <div class="w-[351px] ipad:w-[670px] xlg:w-[1400px] ld:w-[1000px] mx-auto md:w-[800px]">
+    <div
+      class="w-[351px] ipad:w-[670px] xlg:w-[1400px] ld:w-[1000px] mx-auto md:w-[800px]"
+    >
       <h2
         class="font-[Inter] text-[30px] xlg:text-[40px] font-bold leading-[42px] tracking-[-1px] md:text-[34px] md:leading-[45px] md:tracking-[1px] pt-[98px] pb-[24px]"
       >
