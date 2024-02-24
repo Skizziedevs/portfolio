@@ -6,7 +6,7 @@
   >
     <div class="mx-auto">
       <img
-        class="w-[155.34px]  top-[13px] relative md:top-[3px] ipad:mt-[80px]"
+        class="w-[155.34px]  top-[12.5px] relative md:top-[3px] ipad:mt-[80px]"
         src="../../../img/mae.png"
       />
     </div>
