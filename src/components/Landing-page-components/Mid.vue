@@ -34,7 +34,7 @@
             Goodbye New York City
           </h2>
           <div
-            class="flex pl-[3px] pt-[4px] pr-[3px] ld:left-[51px] pb-[4px] rounded-md cursor-pointer relative left-[51px] ipad:left-[0px] w-[150px] md:pl-0 hover:bg-gray-700"
+            class="flex pl-[3px] pt-[4px] pr-[3px] ld:left-[51px] pb-[4px] rounded-md cursor-pointer relative left-[51px] ipad:left-[0px] w-[160px] md:pl-0 hover:bg-gray-700"
           >
             <p class="text-white p-[2px] pr-[8px] pl-[4px]">Read the article</p>
             <img
