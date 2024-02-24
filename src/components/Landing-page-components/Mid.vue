@@ -18,7 +18,7 @@
           <p class="text-white p-[2px] pr-[8px] pl-[4px]">View all</p>
           <img
             src="../../../img/ic.png"
-            class="w-[22px] h-[22px] mt-[1.7px]"
+            class="w-[22px] h-[22px] mt-[2.7px]"
             alt=""
           />
         </div>
