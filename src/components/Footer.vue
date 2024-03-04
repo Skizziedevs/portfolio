@@ -34,26 +34,26 @@
       <div class="h-[65px] mt-[84px] flex md:hidden xlg:pr-[50px]">
         <ul class="flex-col space-y-[28px] ipad:space-y-[60px]">
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] cursor-pointer font-[Inter] ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
           >
             Blog
           </li>
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] ipad:text-[23px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] cursor-pointer font-[Inter] text-[16px] ipad:text-[23px] font-[400] leading-[16px]"
           >
             Linkedin
           </li>
         </ul>
         <ul
-          class="flex-col pl-[156px] ipad:pl-[300px] space-y-[28px] ipad:space-y-[60px] md:flex-row"
+          class="flex-col pl-[156px] ipad:pl-[300px] cursor-pointer space-y-[28px] ipad:space-y-[60px] md:flex-row"
         >
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] font-[Inter] cursor-pointer ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
           >
             Projects
           </li>
           <li
-            class="text-[rgb(255,255,255)] ipad:text-[23px] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] ipad:text-[23px] cursor-pointer font-[Inter] text-[16px] font-[400] leading-[16px]"
           >
             Resume
           </li>
@@ -62,24 +62,24 @@
       <div class="w-[405px] pl-[116px] hidden md:block">
         <ul class="flex justify-between">
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] font-[Inter] cursor-pointer text-[16px] font-[400] leading-[16px]"
           >
             Blog
           </li>
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] font-[Inter] cursor-pointer text-[16px] font-[400] leading-[16px]"
           >
             Projects
           </li>
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] font-[Inter] cursor-pointer text-[16px] font-[400] leading-[16px]"
           >
             Linkedin
           </li>
         </ul>
         <ul class="pt-[40px]">
           <li
-            class="text-[rgb(255,255,255)] font-[Inter] text-[16px] font-[400] leading-[16px]"
+            class="text-[rgb(255,255,255)] font-[Inter] cursor-pointer text-[16px] font-[400] leading-[16px]"
           >
             Contact
           </li>
