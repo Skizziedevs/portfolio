@@ -4,7 +4,7 @@
   <div
     class="w-[351px] mt-[71px] md:mt-[90px] lg:mt-[120px] mx-auto md:w-[870px]"
   >
-    <a href="#">
+    
       <div class="w-[351px] md:w-[870px] lg:w-[1000px]">
         <img
           src="../../img/workin.png"
@@ -24,6 +24,7 @@
           >
             Construction Equipment Analysis and Reporting
           </h2>
+          <a href="#">
           <div
             class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
           >
@@ -37,11 +38,11 @@
               class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
               alt=""
             />
-          </div>
+          </div></a>
         </div>
       </div>
-    </a>
-    <a href="/ecommerce">
+    
+    
       <div class="w-[351px] md:w-[870px] lg:w-[1000px]">
         <img
           src="../../img/workers.png"
@@ -61,6 +62,7 @@
           >
             Supporting Local Communities
           </h2>
+          <router-link to="/ecommerce">
           <div
             class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
           >
@@ -74,10 +76,10 @@
               class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
               alt=""
             />
-          </div>
+          </div> </router-link>
         </div>
       </div>
-    </a>
+   
 
     <div class="w-[351px] md:w-[870px] lg:w-[1000px]">
       <img

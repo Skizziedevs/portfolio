@@ -29,11 +29,11 @@
       />
       <div class="flex">
         <img
-          class="w-[167.50px] ipad:w-[250px] ipad:h-[240px] ld:h-[140px] p-[10px] h-[150px]"
+          class="w-[167.50px] ipad:w-[250px] relative right-[7px] ipad:h-[240px] ld:h-[140px] my-[3px] p-[10px] h-[150px]"
           src="../../../img/jim3.png"
         />
         <img
-          class="w-[167.50px] ipad:w-[250px] ipad:h-[240px] p-[10px] h-[150px]"
+          class="w-[167.50px] ipad:w-[250px] relative right-[4px] ipad:h-[240px] my-[3px] p-[10px] h-[150px]"
           src="../../../img/jim4.png"
         />
       </div>
