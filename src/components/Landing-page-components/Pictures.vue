@@ -2,10 +2,10 @@
 
 <template>
   <div
-    class="w-[315px] ld:w-[1000px] mt-[70px] xlg:w-[1500px] md:w-[870px] ipad:w-[600px] lg:w-[1250px] mx-auto"
+    class="w-[315px] ld:w-[1000px] mt-[50px] xlg:w-[1500px] md:w-[870px] ipad:w-[600px] lg:w-[1250px] mx-auto"
   >
     <div
-      class="md:flex justify-around md:pt-[165px] md:pb-[86px] xlg:w-[1450px] lg:w-[1240px]"
+      class="md:flex justify-around md:pt-[115px] md:pb-[86px] xlg:w-[1450px] lg:w-[1240px]"
     >
       <h2
         class="font-[Inter] text-[22px] ipad:text-[28px] font-bold tracking-[4px] leading-[22px] gradient pt-[50px] md:relative md:bottom-9"

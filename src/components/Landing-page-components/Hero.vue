@@ -2,15 +2,15 @@
 
 <template>
   <div
-    class="mx-auto w-[351px] ipad:w-[700px] ld:w-[1000px] xlg:w-[1400px] ipad:flex mt-[40px] mb-[60px] md:mb-[36px] ipad:pt-[42px] md:pt-[112px] md:flex md:w-[870px] lg:w-[1215px] justify-between"
+    class="mx-auto w-[351px] ipad:w-[700px] ld:w-[1000px] xlg:w-[1400px] ipad:flex mt-[32px]  md:mb-[36px] ipad:pt-[2px] md:pt-[10px] md:flex md:w-[870px] lg:w-[1215px] justify-between"
   >
-    <div class="md:w-[387px] ipad:w-[400px] lg:w-[527px] lg:pt-[92px]">
+    <div class="md:w-[387px] pl-[20px] ipad:pl-[0px] ld:pt-[85px] ipad:pt-[52px] ipad:w-[400px] ld:w-[527px] lg:pt-[92px]">
       <span
         class="gradient ipad:text-[48px] md:ml-[0px] ipad:ml-[60px] text-[41px] font-bold leading-[44px] tracking-[-2px] md:text-[72px] md:leading-[82.5px]"
         >i build products</span
       >
       <h1
-        class="w-[351px] md:w-[387px] md:ml-[0px] ipad:ml-[60px] ipad:text-[48px] lg:w-[527px] text-[41px] font-bold leading-[44px] tracking-[-2px] md:text-[72px] md:leading-[82.5px]"
+        class="w-[351px] md:w-[387px] md:ml-[0px] ld:w-[527px] ipad:ml-[60px] ipad:text-[48px] lg:w-[527px] text-[41px] font-bold leading-[44px] tracking-[-2px] md:text-[72px] md:leading-[82.5px]"
       >
         that delight and inspire people
       </h1>
@@ -27,7 +27,7 @@
       </p>
     </div>
 
-    <div class="pt-[31px]">
+    <div class="pt-[30px]">
       <img src="../../../img/jim.png" class="md:hidden" alt="" />
       <img
         src="../../../img/jimmd.png"

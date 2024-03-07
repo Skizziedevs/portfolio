@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="w-[100%] px-[10px] bg-black">
+  <div class="w-[100%] px-[10px] pl-[25px] bg-black">
     <div
       class="mx-auto w-[351px] ipad:w-[650px] ld:w-[1000px] xlg:w-[1400px] md:w-[870px] pt-[60px] md:pt-[150px] ipad:pl-[70px] pb-[80px]"
     >
@@ -22,7 +22,7 @@
       <div>
         <img
           src="../../img/footerlogo.png"
-          class="pb-[12px] ipad:w-[500px]"
+          class="pb-[12px] w-[300px] ipad:w-[400px]"
           alt=""
         />
         <p
@@ -31,7 +31,7 @@
           justintsn10@gmail.com
         </p>
       </div>
-      <div class="h-[65px] mt-[84px] flex md:hidden xlg:pr-[50px]">
+      <div class="h-[65px] pl-[40px] mt-[64px] flex md:hidden xlg:pr-[50px]">
         <ul class="flex-col space-y-[28px] ipad:space-y-[60px]">
           <li
             class="text-[rgb(255,255,255)] cursor-pointer font-[Inter] ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
@@ -45,7 +45,7 @@
           </li>
         </ul>
         <ul
-          class="flex-col pl-[156px] ipad:pl-[300px] cursor-pointer space-y-[28px] ipad:space-y-[60px] md:flex-row"
+          class="flex-col pl-[156px] ipad:pl-[210px] cursor-pointer space-y-[28px] ipad:space-y-[60px] md:flex-row"
         >
           <li
             class="text-[rgb(255,255,255)] font-[Inter] cursor-pointer ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
@@ -90,7 +90,7 @@
       class="w-[351px] md:relative md:left-[55px] ld:left-[0px] xlg:right-[200px] ipad:w-[550px] md:w-[870px] mx-auto"
     >
       <p
-        class="text-[#8A95AD] font-[Inter] text-[13px] font-[400] leading-[21px] mt-[169px] pb-[30px] w-[870px] mx-auto"
+        class="text-[#8A95AD] font-[Inter] text-[13px] font-[400] leading-[21px] mt-[170px] pb-[30px] w-[870px] mx-auto"
       >
         Justin Hinh | Product Manager
       </p>

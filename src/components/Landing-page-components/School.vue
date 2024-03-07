@@ -2,14 +2,14 @@
 
 <template>
   <div
-    class="md:flex ipad:flex xlg:w-[1500px] ipad:w-[750px] ld:w-[1000px] mx-auto pt-[150px] justify-around md:w-[870px] pb-[100px] md:pb-[170px] lg:w-[1251px]"
+    class="md:flex ipad:flex xlg:w-[1500px] ipad:w-[750px] ld:w-[1000px] mx-auto pt-[90px] justify-around md:w-[870px] pb-[60px] md:pb-[140px] lg:w-[1251px]"
   >
-    <div class="w-[315px] pb-[40px] mx-auto md:w-[417px]">
+    <div class="w-[315px] mx-auto md:w-[417px]">
       <div>
         <h1 class="text-black text-[25px] font-bold md:text-[34px]">
           📚 Education
         </h1>
-        <div class="pt-[50px] pb-[70px] ipad:mt-[15px] hover:bg-gray-100">
+        <div class="pt-[40px]  pb-[40px] ipad:mt-[32px] hover:bg-gray-100">
           <h2 class="font-[400] text-[17px] leading-[20.8px]">
             utah state university
           </h2>
@@ -43,7 +43,7 @@
       <h1 class="text-black text-[25px] font-bold md:text-[34px]">
         💼 Work Experience
       </h1>
-      <div class="pt-[51px]">
+      <div class="pt-[30px]">
         <div class="h-[179px] flex justify-between hover:bg-gray-100">
           <img
             src="../../../img/icon1.png"
@@ -73,7 +73,7 @@
             alt=""
           />
         </div>
-        <div class="w-full mb-[70px] h-[1px] bg-gray-600"></div>
+        <div class="w-full mb-[30px] h-[1px] bg-gray-600"></div>
 
         <div class="h-[179px] flex justify-between hover:bg-gray-100">
           <img
@@ -104,7 +104,7 @@
             alt=""
           />
         </div>
-        <div class="w-full mb-[70px] h-[1px] bg-gray-600"></div>
+        <div class="w-full mb-[30px] h-[1px] bg-gray-600"></div>
 
         <div class="h-[179px] flex justify-between hover:bg-gray-100">
           <img
@@ -133,7 +133,7 @@
             alt=""
           />
         </div>
-        <div class="w-full mb-[70px] h-[1px] bg-gray-600"></div>
+        <div class="w-full mb-[30px] h-[1px] bg-gray-600"></div>
 
         <div
           class="h-[179px] flex md:hidden lg:flex justify-between hover:bg-gray-100"
@@ -164,7 +164,7 @@
             alt=""
           />
         </div>
-        <div class="w-full mb-[70px] h-[1px] bg-gray-600 md:hidden"></div>
+        <div class="w-full mb-[30px] h-[1px] bg-gray-600 md:hidden"></div>
 
         <div
           class="w-[315px] h-[179px] flex justify-between md:hidden hover:bg-gray-100"
@@ -193,7 +193,7 @@
             alt=""
           />
         </div>
-        <div class="w-full mb-[80px] h-[1px] bg-gray-600 md:hidden"></div>
+        <div class="w-full mb-[30px] h-[1px] bg-gray-600 md:hidden"></div>
       </div>
     </div>
   </div>
