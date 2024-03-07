@@ -6,7 +6,7 @@
   >
     <div>
       <h1
-        class="md:w-[575px] ipad:w-[470px] w-[316px] mx-auto text-center md:pb-[70px]  font-inter font-bold text-[34px] ipad:text-[38px] md:text-[52px]  md:tracking-[1px] md:leading-[59.4px] leading-[43.2px] tracking-[0.5px] xlg:pb-[60px] pt-[60px]"
+        class="md:w-[575px] ipad:w-[470px] w-[316px] mx-auto text-center   font-inter font-bold text-[34px] ipad:text-[38px] md:text-[52px]  md:tracking-[1px] md:leading-[59.4px] leading-[43.2px] tracking-[0.5px] xlg:pb-[60px] pt-[45px]"
       >
         I design solutions, one product at a time.
       </h1>
@@ -14,7 +14,7 @@
 
     <div class="md:flex justify-between ipad:w-[400px] md:w-[870px] mx-auto">
       <div
-        class="pb-[60px] pl-[10px] pt-[67px] md:w-[230px] ipad:w-[400px] xlg:w-[330px]"
+        class="pb-[60px] pl-[10px] pt-[55px] md:w-[230px] ipad:w-[400px] xlg:w-[330px]"
       >
         <h2
           class="font-bold text-[20px] ipad:text-[25px] text-black md:hidden lg:block pb-[13px]"
