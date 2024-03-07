@@ -6,7 +6,7 @@
   >
     <div class="mx-auto">
       <img
-        class="w-[155.34px]  top-[12.5px] relative md:top-[15.5px] ipad:mt-[5px]"
+        class="w-[155.34px]  top-[12.5px] relative md:top-[13px] ipad:mt-[5px]"
         src="../../../img/mae.png"
       />
     </div>
@@ -18,13 +18,13 @@
     </div>
     <div class="mx-auto">
       <img
-        class="w-[126.34px]  relative bottom-[3px] md:bottom-[5px]"
+        class="w-[126.34px]  relative bottom-[3px] md:bottom-[6px]"
         src="../../../img/berl.png"
       />
     </div>
     <div class="mx-auto">
       <img
-        class="w-[124.80px] h-[65.20px] pt-[5px]"
+        class="w-[124.80px] h-[65.20px] pt-[5px] md:relative md:bottom-[1px]"
         src="../../../img/rouse.png"
       />
     </div>
