@@ -3,7 +3,7 @@
 <template>
   <div class="w-[100%] px-[10px] pl-[25px] bg-black">
     <div
-      class="mx-auto w-[351px] ipad:w-[650px] ld:w-[1000px] xlg:w-[1400px] md:w-[870px] pt-[60px] md:pt-[150px] ipad:pl-[70px] pb-[80px]"
+      class="mx-auto w-[351px] ipad:w-[650px] ld:w-[1000px] xlg:w-[1400px] md:w-[870px] pt-[60px] md:pt-[150px] ipad:pl-[70px] pb-[60px]"
     >
       <h1
         class="w-[239px] ipad:w-[460px] ld:w-[700px] ipad:text-[43px] md:w-[550px] text-[white] font-[Inter] text-[38px] leading-[43px] tracking-[0.5px] md:text-[57px] font-bold md:leading-[59.4px] md:tracking-[2.5px]"
@@ -22,7 +22,7 @@
       <div>
         <img
           src="../../img/footerlogo.png"
-          class="pb-[12px] w-[300px] ipad:w-[400px]"
+          class="pb-[12px] w-[290px] ipad:w-[400px]"
           alt=""
         />
         <p
@@ -31,8 +31,8 @@
           justintsn10@gmail.com
         </p>
       </div>
-      <div class="h-[65px] pl-[40px] mt-[64px] flex md:hidden xlg:pr-[50px]">
-        <ul class="flex-col space-y-[28px] ipad:space-y-[60px]">
+      <div class="h-[65px] pl-[40px] ipad:pl-[60px] mt-[64px] flex md:hidden xlg:pr-[50px]">
+        <ul class="w-[351px] grid grid-cols-2 grid-rows-2 gap-y-[30px] ipad:gap-y-[70px] ipad:gap-x-[80px]">
           <li
             class="text-[rgb(255,255,255)] cursor-pointer font-[Inter] ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
           >
@@ -43,10 +43,7 @@
           >
             Linkedin
           </li>
-        </ul>
-        <ul
-          class="flex-col pl-[156px] ipad:pl-[210px] cursor-pointer space-y-[28px] ipad:space-y-[60px] md:flex-row"
-        >
+        
           <li
             class="text-[rgb(255,255,255)] font-[Inter] cursor-pointer ipad:text-[23px] text-[16px] font-[400] leading-[16px]"
           >

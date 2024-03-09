@@ -7,7 +7,7 @@ let closeit = ref(true);
 
 <template>
   <div
-    class="flex justify-between w-[360px] md:w-[870px] ld:w-[1100px] xlg:w-[1600px] pt-[43px] lg:w-[1215px] ipad:w-[600px] mx-auto"
+    class="flex justify-between w-[360px] md:w-[870px] ld:w-[1100px] xlg:w-[1600px] pt-[43px] lg:w-[1100px] ipad:w-[600px] mx-auto"
   >
     <a href="/"
       ><img class="w-[175.50px] h-[37.20px] xlg:w-[205.50px] xlg:h-[50.20px]" src="../../img/logo.png"

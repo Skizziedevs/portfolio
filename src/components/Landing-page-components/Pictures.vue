@@ -12,7 +12,7 @@
       >
         PRODUCT MANAGER
       </h2>
-      <h1 class="sub pt-[10px] md:hidden pb-[34px]">That's me!</h1>
+      <h1 class="sub pt-[10px]  md:hidden pb-[34px]">That's me!</h1>
       <p
         class="text-[#666] font-[Inter] text-[19px] font-[400] leading-[36px] md:text-[22px] md:leading-[40px] pb-[34px] md:w-[401px] lg:w-[611px]"
       >
@@ -29,7 +29,7 @@
       />
       <div class="flex">
         <img
-          class="w-[167.50px] ipad:w-[250px] relative right-[7px] ipad:h-[240px] ld:h-[140px] my-[3px] p-[10px] h-[150px]"
+          class="w-[167.50px] ipad:w-[250px] relative right-[3px] ipad:h-[240px] ld:h-[140px] my-[3px] p-[10px] h-[150px]"
           src="../../../img/jim3.png"
         />
         <img
@@ -38,7 +38,7 @@
         />
       </div>
       <img
-        class="ipad:w-[480px] ipad:ml-[9px] ipad:h-[415px]"
+        class="ipad:w-[480px] ipad:ml-[8px] ipad:h-[415px]"
         src="../../../img/teach.png"
       />
     </div>

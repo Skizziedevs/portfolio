@@ -2,9 +2,9 @@
 
 <template>
   <div
-    class="mx-auto w-[351px] ipad:w-[700px] ld:w-[1000px] xlg:w-[1400px] ipad:flex mt-[32px]  md:mb-[36px] ipad:pt-[2px] md:pt-[10px] md:flex md:w-[870px] lg:w-[1215px] justify-between"
+    class="mx-auto pt-[14px] w-[351px] ipad:w-[700px] ld:w-[1000px] xlg:w-[1400px] ipad:flex mt-[20px]  md:mb-[36px] ipad:pt-[0px] md:pt-[10px] md:flex md:w-[870px] lg:w-[1215px] justify-between"
   >
-    <div class="md:w-[387px] pl-[20px] ipad:pl-[0px] ld:pt-[85px] ipad:pt-[52px] ipad:w-[400px] ld:w-[527px] lg:pt-[92px]">
+    <div class="md:w-[387px] lg:relative lg:top-[50px] lg:left-[90px] pl-[20px] xsmax:pl-[7px] xsmax:w-[380px] ipad:pl-[0px] ld:pt-[85px] ipad:pt-[46px] ipad:w-[400px] ld:w-[507px] lg:pt-[92px]">
       <span
         class="gradient ipad:text-[48px] md:ml-[0px] ipad:ml-[60px] text-[41px] font-bold leading-[44px] tracking-[-2px] md:text-[72px] md:leading-[82.5px]"
         >i build products</span
