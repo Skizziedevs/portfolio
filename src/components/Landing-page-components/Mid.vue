@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+import '@fortawesome/fontawesome-free/css/all.css';
+</script>
 
 <template>
   <div class="bg-black py-10 w-full">
@@ -13,14 +15,10 @@
         </h2>
         <h1 class="text-white pb-[29px] text-5xl font-bold">Latest Blog</h1>
         <div
-          class="flex pl-[5px] pt-[4px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[4px] w-[100px] md:pl-0 0"
+          class="flex pl-[5px] pt-[4px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[4px] w-[140px] md:pl-0 0"
         >
-          <p class="text-white p-[2px] pr-[8px] pl-[4px] hover:text-[18px]">View all</p>
-          <img
-            src="../../../img/ic.png"
-            class="w-[22px] h-[22px] mt-[2.7px]"
-            alt=""
-          />
+          <p class="text-white p-[2px] pr-[8px] pl-[4px] hover:text-[18px] hover:scale-110 duration-400 transition-transform text-base">View all   <i class="fa-solid fa-arrow-right"></i></p>
+         
         </div>
       </div>
       <div
@@ -34,14 +32,10 @@
             Goodbye New York City
           </h2>
           <div
-            class="flex pl-[3px] pt-[4px] pr-[3px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[0px] w-[160px] md:pl-0 "
+            class="flex pl-[3px] pt-[4px] pr-[3px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[0px] w-[180px] md:pl-0 "
           >
-            <p class="text-white p-[2px] pr-[8px] pl-[4px] hover:text-[18px]">Read the article</p>
-            <img
-              src="../../../img/ic.png"
-              class="w-[22px] h-[22px] mt-[2.1px]"
-              alt=""
-            />
+            <p class="text-white p-[2px] pr-[8px] pl-[4px] hover:text-[18px] hover:scale-110 duration-400 transition-transform text-base">Read the article    <i class="fa-solid fa-arrow-right"></i></p>
+          
           </div>
         </div>
       </div>
