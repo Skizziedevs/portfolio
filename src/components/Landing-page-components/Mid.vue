@@ -22,17 +22,17 @@ import '@fortawesome/fontawesome-free/css/all.css';
         </div>
       </div>
       <div
-        class="border-b-2 pb-[90px] pl-[23px] mr-[6px] border-gray-300 w-[93vw] md:w-[500px] lg:w-[692px]"
+        class="border-b-2 pb-[75px] ipad:relative ipad:bottom-[33px]  ipad:pl-[3px] ipad:pb-[60px] pl-[23px] mr-[6px] border-gray-300 w-[97vw] md:w-[500px] lg:w-[692px]"
       >
-        <div class="sm:ml-[100px] ipad:ml-[0px]">
-          <p class="text-gray-300 pb-[23px]">April 11, 2022 .5 minutes</p>
+        <div class="sm:ml-[100px] ipad:ml-[0px] ipad:mt-[30px] ipad:relative ipad:top-[26.5px]">
+          <p class="text-gray-300 pb-[23px] ipad:pb-[26px]">April 11, 2022 .5 minutes</p>
           <h2
-            class="text-white text-lg md:text-2xl font-bold leading-[30px] md:leading-[37px] pb-[32px]"
+            class="text-white text-lg ipad:text-2xl font-bold leading-[30px] md:leading-[37px] pb-[18px] ipad:pb-[22px]"
           >
             Goodbye New York City
           </h2>
           <div
-            class="flex pl-[3px] pt-[4px] pr-[3px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[0px] w-[180px] md:pl-0 "
+            class="flex pl-[3px] pt-[7px] pr-[3px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[0px] w-[180px] md:pl-0 "
           >
             <p class="text-white p-[2px] pr-[8px] pl-[4px] hover:text-[18px] hover:scale-110 duration-400 transition-transform text-base">Read the article    <i class="fa-solid fa-arrow-right"></i></p>
           

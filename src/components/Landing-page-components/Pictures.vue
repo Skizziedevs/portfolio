@@ -8,7 +8,7 @@
       class="md:flex justify-around md:pt-[115px] md:pb-[86px] xlg:w-[1450px] lg:w-[1240px]"
     >
       <h2
-        class="font-[Inter] text-[22px] ipad:text-[28px] font-bold tracking-[4px] leading-[22px] gradient pt-[50px] md:relative md:bottom-9"
+        class="font-[Inter] text-[22px] ipad:text-[28px] font-bold tracking-[4px] leading-[22px] gradient pt-[29px] md:relative md:bottom-9"
       >
         PRODUCT MANAGER
       </h2>
@@ -22,7 +22,7 @@
       </p>
     </div>
 
-    <div class="pt-[51px] ipad:pl-[50px] md:hidden">
+    <div class="pt-[35px] ipad:pl-[50px] md:hidden">
       <img
         class="ipad:w-[480px] ipad:ml-[9px] ipad:h-[410px]"
         src="../../../img/jimmy.png"
