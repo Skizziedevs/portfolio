@@ -8,11 +8,12 @@ export default {
     screens: {
       sm: '480px',
       xsmax: '414px',
+      mid: "700px",
       md: '1024px',
       lg: '1900px',
       ipad: '768px',
       ld: '1400px',
-      xlg:'2500px'
+      xlg:'2000px'
     },
     extend: {
       colors: {

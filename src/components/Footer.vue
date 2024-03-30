@@ -3,7 +3,7 @@
 <template>
   <div class="w-[100%] px-[10px] pl-[25px] bg-black">
     <div
-      class="mx-auto w-[351px] ipad:w-[650px] ld:w-[1000px] xlg:w-[1400px] md:w-[870px] pt-[60px] md:pt-[150px] ipad:pl-[70px] pb-[60px]"
+      class="mx-auto w-[351px] ipad:w-[650px] ld:w-[1000px] xlg:w-[1400px] md:w-[870px] pt-[60px] md:pt-[150px] ipad:pl-[90px] pb-[60px]"
     >
       <h1
         class="w-[239px] ipad:w-[460px] ld:w-[700px] ipad:text-[43px] md:w-[550px] text-[white] font-[Inter] text-[38px] leading-[43px] tracking-[0.5px] md:text-[57px] font-bold md:leading-[59.4px] md:tracking-[2.5px]"
@@ -17,7 +17,7 @@
       </h1>
     </div>
     <div
-      class="mx-auto w-[351px] ld:w-[1000px] md:w-[870px] xlg:w-[1400px] ipad:pl-[70px] ipad:w-[650px] md:flex xlg:justify-between"
+      class="mx-auto w-[351px] ld:w-[1000px] md:w-[870px] xlg:w-[1400px] ipad:pl-[90px] ipad:w-[650px] md:flex xlg:justify-between"
     >
       <div>
         <img
@@ -84,7 +84,7 @@
       </div>
     </div>
     <div
-      class="w-[351px] md:relative md:left-[55px] ld:left-[0px] xlg:right-[200px] ipad:w-[550px] md:w-[870px] mx-auto"
+      class="w-[351px] md:relative md:left-[22px] ld:left-[0px] xlg:right-[200px] ipad:w-[550px] md:w-[870px] mx-auto"
     >
       <p
         class="text-[#8A95AD] font-[Inter] text-[13px] font-[400] leading-[21px] mt-[170px] pb-[30px] w-[870px] mx-auto"

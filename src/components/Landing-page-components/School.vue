@@ -6,33 +6,33 @@
   >
     <div class="w-[315px] mx-auto md:w-[417px]">
       <div>
-        <h1 class="text-black text-[25px] font-bold md:text-[34px]">
+        <h1 class="text-black text-[27px] font-bold md:text-[34px]">
           📚 Education
         </h1>
-        <div class="pt-[35px]  pb-[40px] ipad:mt-[32px] hover:bg-gray-100">
-          <h2 class="font-[400] text-[17px] leading-[20.8px]">
+        <div class="pt-[35px]  pb-[40px] ipad:mt-[11px] hover:bg-gray-100">
+          <h2 class="font-[400] text-[19px] leading-[20.8px]">
             utah state university
           </h2>
           <p
-            class="font-[Inter] font-[500] leading-[20.8px] text-[14px] w-[210px] pt-[12px]"
+            class="font-[Inter] font-[500] leading-[20.8px] text-[14px] w-[210px] pt-[20px]"
           >
             Dual- Bachelors: Economics & Political Science
           </p>
-          <p class="font-[Inter] font-[500] leading-[20.8px] text-[14px]">
+          <p class="font-[Inter] font-[500] leading-[20.8px] pt-[5px] text-[14px]">
             2009-2013
           </p>
         </div>
         <div class="w-full h-[1px] bg-gray-600"></div>
         <div class="pt-[50px] pb-[70px] hover:bg-gray-100">
-          <h2 class="font-[400] text-[17px] leading-[20.8px]">
+          <h2 class="font-[400] text-[19px] leading-[20.8px]">
             Ingolstadt School of Management
           </h2>
           <p
-            class="font-[Inter] font-[500] leading-[20.8px] text-[14px] w-[210px] pt-[12px]"
+            class="font-[Inter] font-[500] leading-[20.8px] text-[14px] w-[210px] pt-[20px]"
           >
             Study Abroad - Germany
           </p>
-          <p class="font-[Inter] font-[500] leading-[20.8px] text-[14px]">
+          <p class="font-[Inter] font-[500] leading-[20.8px] pt-[5px] text-[14px]">
             2009-2013
           </p>
         </div>

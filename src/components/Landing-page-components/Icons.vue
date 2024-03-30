@@ -2,7 +2,7 @@
 
 <template>
   <div
-    class="w-[351px] grid grid-cols-2 grid-rows-2 gap-y-[30px] ipad:gap-y-[35px] ipad:gap-x-[0px]  xlg:py-[90px] xlg:w-[1400px] mx-auto ld:w-[950px]  ipad:w-[500px] mt-[60px] md:mt-[80px] ipad:mt-[60px] md:w-[826px] md:flex md:justify-between"
+    class="w-[351px] grid grid-cols-2 grid-rows-2 gap-y-[30px] ipad:gap-y-[35px]  xlg:py-[90px] xlg:w-[1400px] mx-auto ld:w-[950px]  ipad:w-[430px] mt-[60px] md:mt-[80px] ipad:mt-[60px] md:w-[826px] md:flex md:justify-between"
   >
     <div class="mx-auto">
       <img

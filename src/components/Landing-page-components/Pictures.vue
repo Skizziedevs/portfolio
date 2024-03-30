@@ -5,14 +5,14 @@
     class="w-[315px] ld:w-[1000px] mt-[50px] xlg:w-[1500px] md:w-[870px] ipad:w-[600px] lg:w-[1250px] mx-auto"
   >
     <div
-      class="md:flex justify-around md:pt-[115px] md:pb-[86px] xlg:w-[1450px] lg:w-[1240px]"
+      class="md:flex justify-around ipad:pl-[28px] md:pt-[115px] md:pb-[86px] xlg:w-[1450px] lg:w-[1240px]"
     >
       <h2
-        class="font-[Inter] text-[22px] ipad:text-[28px] font-bold tracking-[4px] leading-[22px] gradient pt-[29px] md:relative md:bottom-9"
+        class="font-[Inter] text-[22px] ipad:text-[28px] font-bold tracking-[4px] leading-[22px] gradient pt-[43px] md:relative md:bottom-9"
       >
         PRODUCT MANAGER
       </h2>
-      <h1 class="sub pt-[10px]  md:hidden pb-[34px]">That's me!</h1>
+      <h1 class="sub pt-[10px] md:hidden pb-[34px]">That's me!</h1>
       <p
         class="text-[#666] font-[Inter] text-[19px] font-[400] leading-[36px] md:text-[22px] md:leading-[40px] pb-[34px] md:w-[401px] lg:w-[611px]"
       >
@@ -23,10 +23,12 @@
     </div>
 
     <div class="pt-[35px] ipad:pl-[50px] md:hidden">
-      <img
-        class="ipad:w-[480px] ipad:ml-[9px] ipad:h-[410px]"
-        src="../../../img/jimmy.png"
-      />
+      <div class="ipad:w-[480px] ipad:ml-[9px] ipad:h-[410px]  overflow-hidden">
+        <img 
+        class="w-full h-full object-cover"
+        src="../../../img/jimmy.png" />
+      </div>
+
       <div class="flex">
         <img
           class="w-[167.50px] ipad:w-[250px] relative right-[3px] ipad:h-[240px] ld:h-[140px] my-[3px] p-[10px] h-[150px]"
@@ -37,28 +39,34 @@
           src="../../../img/jim4.png"
         />
       </div>
-      <img
-        class="ipad:w-[480px] ipad:ml-[8px] ipad:h-[415px]"
-        src="../../../img/teach.png"
-      />
+      <div class="ipad:w-[480px] ipad:ml-[9px] overflow-hidden" >
+        <img  class="w-full h-full object-cover" src="../../../img/teach.png" />
+      </div>
+      
     </div>
 
-    <div class="hidden md:flex xlg:pl-[45px]">
-      <img
-        class="w-[359.53px] mr-[16px] h-[344.81px] lg:w-[507px] lg:h-[506px]"
+    <div class="hidden md:flex md:pl-[45px]">
+      <div class="w-[325.53px] mr-[16px] h-[344.81px] lg:w-[507px] lg:h-[506px] overflow-hidden">
+        <img
+        class="w-full h-full object-cover"
         src="../../../img/teach.png"
       />
-      <img
-        class="w-[359.31px] h-[344.31px] lg:w-[507px] lg:h-[506px]"
+      </div>
+      <div class="w-[325.53px] mr-[16px] h-[344.81px] lg:w-[507px] lg:h-[506px] overflow-hidden">
+        <img
+        class="w-full h-full object-cover"
         src="../../../img/jimmy.png"
       />
-      <div class="flex-col pl-[15px]">
+      </div>
+      
+     
+      <div class="flex-col ">
         <img
-          class="w-[239.55px] h-[178.93px] lg:w-[338px] lg:h-[247px]"
+          class="md:w-[175.55px] md:h-[160px] lg:w-[338px] lg:h-[247px]"
           src="../../../img/jim3.png"
         />
         <img
-          class="w-[245.55px] mt-[16.2px] h-[148.48px] lg:w-[338px] lg:h-[247px]"
+          class="w-[175.55px] mt-[22.2px] md:h-[160px] ld:mt-[25px] lg:mt-[10px] lg:w-[338px] lg:h-[247px]"
           src="../../../img/jim4.png"
         />
       </div>

@@ -25,19 +25,11 @@
             Construction Equipment Analysis and Reporting
           </h2>
           <a href="#">
-          <div
-            class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
+            <div
+            class="flex pl-[3px] pt-[3px] pr-[3px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[0px] w-[190px] md:pl-0 "
           >
-            <p
-              class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]"
-            >
-              View Blog Post
-            </p>
-            <img
-              src="../../img/ic.png"
-              class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
-              alt=""
-            />
+            <p class="text-white md:text-[1.3rem] hover:text-[18px] md:hover:text-[1.35rem] md:hover:pl-[10px] hover:scale-110  duration-300 transition-text text-base">View blog post    <i class="fa-solid fa-arrow-right"></i></p>
+          
           </div></a>
         </div>
       </div>
@@ -63,19 +55,11 @@
             Supporting Local Communities
           </h2>
           <router-link to="/ecommerce">
-          <div
-            class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
+            <div
+            class="flex pl-[3px] pt-[3px] pr-[3px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[0px] w-[190px] md:pl-0 "
           >
-            <p
-              class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]"
-            >
-              View Blog Post
-            </p>
-            <img
-              src="../../img/ic.png"
-              class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
-              alt=""
-            />
+            <p class="text-white md:text-[1.3rem] hover:text-[18px] md:hover:text-[1.35rem] md:hover:pl-[10px] hover:scale-110  duration-300 transition-text text-base">View blog post    <i class="fa-solid fa-arrow-right"></i></p>
+          
           </div> </router-link>
         </div>
       </div>
@@ -101,19 +85,11 @@
           Affordable Housing Mortgage
         </h2>
         <div
-          class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
-        >
-          <p
-            class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]"
+            class="flex pl-[3px] pt-[3px] pr-[3px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[0px] w-[190px] md:pl-0 "
           >
-            View Blog Post
-          </p>
-          <img
-            src="../../img/ic.png"
-            class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
-            alt=""
-          />
-        </div>
+            <p class="text-white md:text-[1.3rem] hover:text-[18px] md:hover:text-[1.35rem] md:hover:pl-[10px] hover:scale-110  duration-300 transition-text text-base">View blog post    <i class="fa-solid fa-arrow-right"></i></p>
+          
+          </div>
       </div>
     </div>
 
@@ -137,19 +113,11 @@
           Find the best Happy Hours in Washington DC
         </h2>
         <div
-          class="flex rounded-md cursor-pointer hover:bg-gray-700 p-[3px] w-[146px] ipad:w-[156px] ld:w-[160px]"
-        >
-          <p
-            class="link text-white ld:text-[18.5px] ipad:text-[17px] pr-[10px]"
+            class="flex pl-[3px] pt-[3px] pr-[3px]  pb-[4px] rounded-md cursor-pointer relative  ipad:left-[0px] w-[190px] md:pl-0 "
           >
-            View Blog Post
-          </p>
-          <img
-            src="../../img/ic.png"
-            class="w-[22px] h-[22px] mt-[1.5px] ipad:mt-[3px] ld:mt-[3px]"
-            alt=""
-          />
-        </div>
+            <p class="text-white md:text-[1.3rem] hover:text-[18px] md:hover:text-[1.35rem] md:hover:pl-[10px] hover:scale-110  duration-300 transition-text text-base">View blog post    <i class="fa-solid fa-arrow-right"></i></p>
+          
+          </div>
       </div>
     </div>
   </div>

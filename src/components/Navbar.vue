@@ -19,7 +19,7 @@ let closeit = ref(true);
     <router-link to="/Projects"><li class="hover:bg-gray-300 rounded-md p-[3px]">Projects</li></router-link>
     <router-link to="/Blogs"><li class="hover:bg-gray-300 rounded-md p-[3px]">Blogs</li></router-link>
     <router-link to="/"> <li class="hover:bg-gray-300 rounded-md p-[3px]">Resume</li></router-link>
-    <router-link to="#"><li class="hover:bg-gray-300 rounded-md p-[3px]">Contact</li></router-link>
+    <router-link to="/contact"><li class="hover:bg-gray-300 rounded-md p-[3px]">Contact</li></router-link>
     </ul>
     <div @click="closeit = !closeit" class="pr-[14px] pt-[10px]">
       <button

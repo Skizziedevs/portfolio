@@ -2,26 +2,26 @@
 
 <template>
   <div
-    class="w-[340px] ipad:w-[500px] ld:w-[1000px] xlg:w-[1500px] md:w-[870px] lg:w-[1098px] pb-[70px] mx-auto"
+    class="w-[340px] ipad:w-[700px] ld:w-[1000px] xlg:w-[1500px] md:w-[870px] lg:w-[1098px] pb-[70px] mx-auto"
   >
     <div>
       <h1
-        class="md:w-[575px] ipad:w-[470px] w-[316px] mx-auto text-center   font-inter font-bold text-[34px] ipad:text-[38px] md:text-[52px]  md:tracking-[1px] md:leading-[59.4px] leading-[43.2px] tracking-[0.5px] xlg:pb-[60px] pt-[45px]"
+        class="md:w-[870px] ipad:w-[700px] w-[316px] mx-auto text-center ipad:px-[84px] font-inter font-bold text-[34px] ipad:text-[41px] md:text-[52px]  md:tracking-[1px] md:leading-[59.4px] leading-[43.2px] tracking-[0.5px] xlg:pb-[60px] pt-[45px]"
       >
         I design solutions, one product at a time.
       </h1>
     </div>
 
-    <div class="md:flex justify-between ipad:w-[400px] md:w-[870px] mx-auto">
+    <div class="md:flex justify-between ipad:w-[400px] md:w-[870px] md:mx-auto ipad:ml-[60px] ">
       <div
-        class="pb-[60px] pl-[10px] pt-[55px] md:w-[230px] ipad:w-[400px] xlg:w-[330px]"
+        class="pb-[60px]  pt-[55px] md:w-[230px] ipad:w-[400px] xlg:w-[330px]"
       >
         <h2
           class="font-bold text-[20px] ipad:text-[25px] text-black md:hidden lg:block pb-[13px]"
         >
           What I do
         </h2>
-        <p class="xlg:text-[25px] pb-[31px] md:pt-[16px]">
+        <p class="xlg:text-[25px] pb-[31px] md:pt-[28px]">
           Crafting the perfect user experience is my top priority. But I also do
           these as well.
         </p>
@@ -42,7 +42,7 @@
       </div>
 
       <div
-        class="pb-[60px] pl-[10px] md:pt-[67px] md:w-[230px] xlg:w-[330px] lg:w-[313px]"
+        class="pb-[60px] md:pt-[67px] md:w-[230px] xlg:w-[330px] lg:w-[313px]"
       >
         <h2
           class="font-bold text-[20px] text-black md:hidden lg:block pb-[13px]"
@@ -69,7 +69,7 @@
         </ul>
       </div>
 
-      <div class="md:w-[230px] pl-[10px] xlg:w-[330px] md:pt-[67px]">
+      <div class="md:w-[230px]  xlg:w-[330px] md:pt-[67px]">
         <h2
           class="font-bold text-[20px] text-black md:hidden lg:block pb-[13px]"
         >

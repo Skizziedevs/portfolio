@@ -21,7 +21,7 @@
         Hello! I’m Justin, a Product Manager based in Denver, Colorado.
       </p>
       <p
-        class="font-bold ipad:ml-[60px] md:ml-[0px] text-[17px] leading-[17px] pt-[26px] md:text-[23px]"
+        class="font-bold ipad:ml-[60px] md:ml-[0px] text-[17px] leading-[17px] pt-[15px] md:text-[23px]"
       >
         Download cv
       </p>
